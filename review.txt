@@ -1,0 +1,2 @@
+https://github.com/mkaput/ampytamine/pull/1
+https://github.com/AGHPythonCourse2017/zad01-tomblon/pull/1
